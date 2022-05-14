@@ -1,3 +1,3 @@
 updated In master branch
-Updated this line also
+This line updating In dev branch
 This file contains deployment scripts
